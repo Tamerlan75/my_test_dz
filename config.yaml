@@ -1,0 +1,7 @@
+path_in: /home/user/tst
+path_out: /home/user/out
+path_ext: /home/user/folder1
+path_ext2: /home/user/folder2
+path_ext3: /home/user/folder3
+count: 5
+bs: 1M
